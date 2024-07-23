@@ -8,6 +8,7 @@ Google Colab：基于云端的交互式笔记本环境，可免费或付费使�
 项目利用Github上的Chinese medical dialogue data——中文医疗问答数据集进行开发。该数据集由男科、内科、妇产科、肿瘤科、儿科、外科六个不同领域的医疗对话数据csv格式文件组成，总计 792099条数，具体格式见图。（https://github.com/Toyhom/Chinese-medical-dialogue-data.git）
 ## 项目代码解释
 ### 导入Unsloth和相关支持环境以加速微调过程
+![Image text](img/图片2.png)
 ### 下载原始模型（Llama3-8B）
 ### 下载原始数据集并将其转换为可训练格式（json）
 ### 设置LoRA适配器
